@@ -40,17 +40,11 @@ val gio = AboutMe(
 )
 print(gio.toString())
 ```
-## Most used repository :package:
+## GitHub Stats :chart_with_upwards_trend:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events) 
 
-
-## Top languages :computer:
-
-![Giovanni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true)
-
-
-## GitHub Stats :octocat:
+![Giovanni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true) 
 
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true&hide=stars,contribs)
 
