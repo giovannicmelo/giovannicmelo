@@ -40,10 +40,19 @@ val gio = AboutMe(
 )
 print(gio.toString())
 ```
+## Most used repository :package:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events)
+
+
+## Top languages :computer:
+
+![Giovanni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true)
+
 
 ## GitHub Stats :octocat:
 
-![giovannicmelo github stats](https://github-readme-stats.vercel.app/api?username=giovannicmelo)
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true&hide=stars,contribs)
 
 <!--
 **giovannicmelo/giovannicmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
