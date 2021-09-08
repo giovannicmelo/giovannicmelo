@@ -42,7 +42,9 @@ print(gio.toString())
 ```
 ## GitHub Stats :chart_with_upwards_trend:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events) 
+[![app-events Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events)
+
+[![MySongsAPI Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=MySongsAPI&show_owner=true)](https://github.com/giovannicmelo/MySongsAPI)
 
 ![Giovanni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicmelo&theme=tokyonight&show_icons=true&count_private=true) 
 
