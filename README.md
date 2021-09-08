@@ -1,9 +1,9 @@
 ![Android Developer](https://www.primafelicitas.com/wp-content/uploads/2020/02/android-app-development.png "Android Developer")
 ## Hi, there! I'm Giovanni! 👋
 
-- Android developer at [South System](https://southsystem.com.br/ "South System") :iphone:
-- Graduated in Systems Analysis and Development at [FAQI](https://qi.edu.br/ "FAQI") :mortar_board: 
-- Boardgamer on spare time :game_die:
+- :iphone: Android developer at [South System](https://southsystem.com.br/ "South System")
+- :mortar_board: Graduated in Systems Analysis and Development at [FAQI](https://qi.edu.br/ "FAQI") 
+- :game_die: Boardgamer on spare time
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/giovannicmelo) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@web.gcm)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovanni-de-campos-melo-7b4a5532/)
 
