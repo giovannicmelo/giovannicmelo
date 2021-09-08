@@ -41,11 +41,9 @@ val gio = AboutMe(
 print(gio.toString())
 ```
 
-<!--
 ## GitHub Stats :octocat:
 
 ![giovannicmelo github stats](https://github-readme-stats.vercel.app/api?username=giovannicmelo)
--->
 
 <!--
 **giovannicmelo/giovannicmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
