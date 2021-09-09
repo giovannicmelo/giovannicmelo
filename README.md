@@ -40,28 +40,6 @@ val gio = AboutMe(
 )
 print(gio.toString())
 ```
-## :chart_with_upwards_trend: My GitHub Stats
-
-<!--
-[![app-events Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=app-events&show_owner=true)](https://github.com/giovannicmelo/app-events)
-
-[![MySongsAPI Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannicmelo&theme=tokyonight&repo=MySongsAPI&show_owner=true)](https://github.com/giovannicmelo/MySongsAPI)
---> 
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannicmelo&theme=tokyonight&show_icons=true)![Giovanni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicmelo&theme=tokyonight&show_icons=true)
 
 ![Snake animation](https://github.com/giovannicmelo/giovannicmelo/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**giovannicmelo/giovannicmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
