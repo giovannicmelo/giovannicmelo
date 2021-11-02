@@ -13,7 +13,8 @@
 val gio = AboutMe(
     languages = arrayOf(
         "Kotlin", 
-        "Java"
+        "Java",
+        "Dart"
     ),
     components = arrayOf(
         "Jetpack",
