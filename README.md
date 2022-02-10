@@ -1,4 +1,4 @@
-![Android Developer](https://www.primafelicitas.com/wp-content/uploads/2020/02/android-app-development.png "Android Developer")
+![Android Developer](https://2.bp.blogspot.com/-CrYLg_oRtrU/Xylish5hxyI/AAAAAAAAPZg/feBSJWyKm0IzTcEroCB8bS9i4ZbMXnPpQCLcBGAsYHQ/s1600/AD%2BBLOG_Easy%2Bmodular%2Bdevelopment_v2.png "Android Developer")
 ## Hi, there! I'm Giovanni! 👋
 
 - Android developer at [South System](https://southsystem.com.br/ "South System") :iphone: 
